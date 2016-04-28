@@ -1,4 +1,4 @@
-package com.gunjan.uniDirectMany2One;
+package com.gunjan.model.uniDirectMany2One;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

@@ -16,11 +16,11 @@ import com.gunjan.model.one2Many.Department;
 import com.gunjan.model.one2Many.Employee;
 import com.gunjan.model.optionalUniMany2One.Book;
 import com.gunjan.model.optionalUniMany2One.Publisher;
-import com.gunjan.uniDirectMany2One.UniBook;
-import com.gunjan.uniDirectMany2One.UniCustomer;
-import com.gunjan.uniDirectMany2One.UniReservation;
-import com.gunjan.uniDirectOne2Many.Customer;
-import com.gunjan.uniDirectOne2Many.Reservation;
+import com.gunjan.model.uniDirectMany2One.UniBook;
+import com.gunjan.model.uniDirectMany2One.UniCustomer;
+import com.gunjan.model.uniDirectMany2One.UniReservation;
+import com.gunjan.model.uniDirectOne2Many.Customer;
+import com.gunjan.model.uniDirectOne2Many.Reservation;
 
 
 

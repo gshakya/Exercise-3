@@ -1,4 +1,4 @@
-package com.gunjan.uniDirectOne2Many;
+package com.gunjan.model.uniDirectOne2Many;
 
 import java.util.HashSet;
 import java.util.Set;
